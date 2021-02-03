@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The Wall Of Bad Memories!
 
-You can use the [editor on GitHub](https://github.com/GameVasionYT/The-Wall-Of-Bad-Memories/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see the [itch.io](https://badmemories.itch.io page for the game.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
