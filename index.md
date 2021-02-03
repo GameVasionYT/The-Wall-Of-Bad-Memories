@@ -1,6 +1,6 @@
 ## Welcome to The Wall Of Bad Memories!
 
-You can see the [itch.io](https://badmemories.itch.io page for the game.
+You can see the [itch.io](https://badmemories.itch.io/) page for the game.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
