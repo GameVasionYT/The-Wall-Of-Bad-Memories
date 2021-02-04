@@ -3,35 +3,17 @@
 You can see the [itch.io](https://badmemories.itch.io/) page for the game.
 
 Want to help out with the game? DM me on discord! GameVasion#6969, Also join my [discord server](https://discord.gg/PuMC4BAwMe)!
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+###Questions and Answers
 ```markdown
-Syntax highlighted code block
+Q. What is The Wall Of Bad Memories?
+A. The Wall Of Bad Memories is a comedy horror visual novel.
 
-# Header 1
-## Header 2
-### Header 3
+Q. What game engine does this game use?
+A. We are using the Ren'py game engine
 
-- Bulleted
-- List
+Q. Is there a discord server for this game?
+A. Yes but not to public yet! for now you can join This one https://discord.gg/PuMC4BAwMe
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Q. Why did you decide to make this game?
+A. I wish to make people entertained
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GameVasionYT/The-Wall-Of-Bad-Memories/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
