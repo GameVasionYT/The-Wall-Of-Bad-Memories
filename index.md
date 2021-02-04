@@ -3,7 +3,7 @@
 You can see the [itch.io](https://badmemories.itch.io/) page for the game.
 
 Want to help out with the game? DM me on discord! GameVasion#6969, Also join my [discord server](https://discord.gg/PuMC4BAwMe)!
-###Questions and Answers
+### Questions and Answers
 ```markdown
 Q. What is The Wall Of Bad Memories?
 A. The Wall Of Bad Memories is a comedy horror visual novel.
